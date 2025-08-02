@@ -4,7 +4,7 @@ A collection of basic recipes built as part of The Project curriculum.
 
 ## Live Demo
 
-You can view the live website here: [Recipes Live Site](https://akki-jaiswal.github.io/recipes/)
+You can view the live website here: [Recipes Live Site](https://codedBySonu.github.io/recipes/)
 
 ---
 
